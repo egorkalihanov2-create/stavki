@@ -1,0 +1,1732 @@
+{
+  "id": "from-s04e08",
+  "title": "Извне — 4 сезон, 8 серия",
+  "durationSeconds": 3539,
+  "startingBalance": 100,
+  "adBreaks": [
+    {
+      "id": "ad-1",
+      "startsAt": 291,
+      "endsAt": 303,
+      "label": "Реклама"
+    },
+    {
+      "id": "ad-2",
+      "startsAt": 1732,
+      "endsAt": 1752,
+      "label": "Реклама"
+    }
+  ],
+  "introBreaks": [
+    {
+      "id": "intro-1",
+      "startsAt": 300,
+      "endsAt": 422,
+      "label": "Заставка"
+    }
+  ],
+  "preStartMarkets": [
+    {
+      "id": "s04e08-market-01",
+      "betFormat": "choice",
+      "marketType": "final",
+      "category": "До старта серии",
+      "title": "Кенни пережил ночной забег или его списали после финального крика?",
+      "opensAt": 0,
+      "closesAt": 1,
+      "resolveAt": 3510,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Жив, но выглядит как человек после общения с сериалом",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Умер в первые минуты",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Его судьбу будут тянуть до финала",
+          "odds": 2.5
+        },
+        {
+          "id": "option-4",
+          "title": "Его вообще не покажут, чтобы все орали на экран",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "живой, но с таким лицом, будто ему самому не понравилась прошлая серия."
+    },
+    {
+      "id": "s04e08-market-02",
+      "betFormat": "choice",
+      "marketType": "final",
+      "category": "До старта серии",
+      "title": "Что окажется главным последствием ночной операции?",
+      "opensAt": 0,
+      "closesAt": 1,
+      "resolveAt": 3510,
+      "winningOptionId": "option-2",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Герои поймут, что тотемы убивают тварей",
+          "odds": 3
+        },
+        {
+          "id": "option-2",
+          "title": "Фатима почувствует связь с монстром",
+          "odds": 1.5
+        },
+        {
+          "id": "option-3",
+          "title": "Бойд запретит любые вылазки",
+          "odds": 2.5
+        },
+        {
+          "id": "option-4",
+          "title": "Кенни станет охотником на тварей",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "план с тотемом не дал оружие, зато дал Фатиме подписку на монстр-VR."
+    },
+    {
+      "id": "s04e08-market-03",
+      "betFormat": "choice",
+      "marketType": "final",
+      "category": "До старта серии",
+      "title": "Проверят ли герои кости в этой серии?",
+      "opensAt": 0,
+      "closesAt": 1,
+      "resolveAt": 3510,
+      "winningOptionId": "option-2",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Да, спустятся и начнут копать",
+          "odds": 2.5
+        },
+        {
+          "id": "option-2",
+          "title": "Нет, весь эпизод будет подготовка, ссоры и «давайте не сдохнем»",
+          "odds": 1.5
+        },
+        {
+          "id": "option-3",
+          "title": "Кости найдут случайно наверху",
+          "odds": 4
+        },
+        {
+          "id": "option-4",
+          "title": "Кости окажутся не детскими",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "серия про то, как люди пытаются придумать план, а план пытается не быть полным самоубийством."
+    },
+    {
+      "id": "s04e08-market-04",
+      "betFormat": "choice",
+      "marketType": "final",
+      "category": "До старта серии",
+      "title": "Появится ли человек в жёлтом лично?",
+      "opensAt": 0,
+      "closesAt": 1,
+      "resolveAt": 3510,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Да",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Нет, только будут опять трястись из-за костюма",
+          "odds": 2
+        },
+        {
+          "id": "option-3",
+          "title": "Только голосом",
+          "odds": 2.5
+        },
+        {
+          "id": "option-4",
+          "title": "Только в старом рисунке",
+          "odds": 3
+        }
+      ],
+      "resolutionNote": "появляется под конец и сразу становится понятно: лучше бы он оставался слухом."
+    },
+    {
+      "id": "s04e08-market-05",
+      "betFormat": "choice",
+      "marketType": "final",
+      "category": "До старта серии",
+      "title": "Кто получит самый мерзкий контакт с «тем светом»?",
+      "opensAt": 0,
+      "closesAt": 1,
+      "resolveAt": 3510,
+      "winningOptionId": "option-4",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Бойд",
+          "odds": 2
+        },
+        {
+          "id": "option-2",
+          "title": "Табита",
+          "odds": 2
+        },
+        {
+          "id": "option-3",
+          "title": "Генри",
+          "odds": 2
+        },
+        {
+          "id": "option-4",
+          "title": "Все трое, потому что город решил раздать персональные пиздецы",
+          "odds": 1.5
+        }
+      ],
+      "resolutionNote": "одному жена, другой мертвый ребёнок по телефону, третьему человек в жёлтом. Сервис полный."
+    },
+    {
+      "id": "s04e08-market-06",
+      "betFormat": "choice",
+      "marketType": "final",
+      "category": "До старта серии",
+      "title": "Что будет самым идиотски звучащим, но сюжетно важным планом серии?",
+      "opensAt": 0,
+      "closesAt": 1,
+      "resolveAt": 3510,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Вырвать дерево с корнем",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Построить воздушный шар",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Спрятать кости в закусочной",
+          "odds": 4
+        },
+        {
+          "id": "option-4",
+          "title": "Отправить Виктора вести переговоры",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "когда спасение людей зависит от ландшафтного дизайна, ты точно смотришь «Извне»."
+    },
+    {
+      "id": "s04e08-market-07",
+      "betFormat": "choice",
+      "marketType": "final",
+      "category": "До старта серии",
+      "title": "Сколько рекламных вставок будет в транскрипте?",
+      "opensAt": 0,
+      "closesAt": 1,
+      "resolveAt": 3510,
+      "winningOptionId": "option-3",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Одна",
+          "odds": 3
+        },
+        {
+          "id": "option-2",
+          "title": "Две",
+          "odds": 2
+        },
+        {
+          "id": "option-3",
+          "title": "Три",
+          "odds": 1.5
+        },
+        {
+          "id": "option-4",
+          "title": "Столько, что монстры тоже зарегистрируются",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "хоррор-хоррором, но промокод должен жить."
+    },
+    {
+      "id": "s04e08-market-08",
+      "betFormat": "choice",
+      "marketType": "final",
+      "category": "До старта серии",
+      "title": "Кто сильнее всех будет продавливать идею «использовать опасную херню, потому что вариантов нет»?",
+      "opensAt": 0,
+      "closesAt": 1,
+      "resolveAt": 3510,
+      "winningOptionId": "option-2",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Бойд",
+          "odds": 2
+        },
+        {
+          "id": "option-2",
+          "title": "Акоста",
+          "odds": 1.5
+        },
+        {
+          "id": "option-3",
+          "title": "Джейд",
+          "odds": 2
+        },
+        {
+          "id": "option-4",
+          "title": "Генри",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "Фатиме страшно, Кристи в ужасе, а Акоста уже видит «тактическое преимущество»."
+    },
+    {
+      "id": "s04e08-market-09",
+      "betFormat": "choice",
+      "marketType": "final",
+      "category": "До старта серии",
+      "title": "Получит ли Бойд в этой серии нормальную помощь с головой?",
+      "opensAt": 0,
+      "closesAt": 1,
+      "resolveAt": 3510,
+      "winningOptionId": "option-2",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Да, Кристи даст лечение",
+          "odds": 2.5
+        },
+        {
+          "id": "option-2",
+          "title": "Нет, ему скажут примерно «держись, шериф»",
+          "odds": 1.5
+        },
+        {
+          "id": "option-3",
+          "title": "Да, Эбби всё объяснит спокойно и без травмы",
+          "odds": 4
+        },
+        {
+          "id": "option-4",
+          "title": "Бойд сам признает, что ему нужен отпуск",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "попросил таблетку, пластырь, хоть что-нибудь. Получил город, который опять лезет в мозг."
+    },
+    {
+      "id": "s04e08-market-10",
+      "betFormat": "choice",
+      "marketType": "final",
+      "category": "До старта серии",
+      "title": "Какой предмет станет главным «ага, он уже рядом»?",
+      "opensAt": 0,
+      "closesAt": 1,
+      "resolveAt": 3510,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Пропавший жёлтый костюм",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Мешок зубов",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Старый талисман",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Кассета с песней",
+          "odds": 3
+        }
+      ],
+      "resolutionNote": "костюм пропал — значит, владелец решил перестать ходить по лесу голым. Логично, страшно, спасибо."
+    }
+  ],
+  "markets": [
+    {
+      "id": "s04e08-market-11",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Что станет ясно про тотем после ночной проверки?",
+      "opensAt": 138,
+      "closesAt": 201,
+      "resolveAt": 205,
+      "winningOptionId": "option-3",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Он убивает тварей",
+          "odds": 3
+        },
+        {
+          "id": "option-2",
+          "title": "Он хотя бы ранит их",
+          "odds": 2
+        },
+        {
+          "id": "option-3",
+          "title": "Он не сработал",
+          "odds": 1.5
+        },
+        {
+          "id": "option-4",
+          "title": "Он работает только в руках Бойда",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "«Сработало?» — «Нет». Самая короткая презентация провального стартапа."
+    },
+    {
+      "id": "s04e08-market-12",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Как Фатима объяснит спасение Кенни?",
+      "opensAt": 230,
+      "closesAt": 255,
+      "resolveAt": 260,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Она видела всё глазами твари",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Она услышала голос Джима",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Тварь испугалась талисмана",
+          "odds": 2.5
+        },
+        {
+          "id": "option-4",
+          "title": "Кенни просто сам добежал, красавчик",
+          "odds": 2
+        }
+      ],
+      "resolutionNote": "«Я словно была там». Отлично, теперь у нас не только монстры, но и трансляция от первого лица."
+    },
+    {
+      "id": "s04e08-market-13",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Что Фатима попросит показать остальным?",
+      "opensAt": 259,
+      "closesAt": 287,
+      "resolveAt": 290,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Изменения на животе",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Следы от укуса",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Кровь на руках",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Зуб монстра",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "в нормальном городе это медицина. Здесь — очередной пункт плана."
+    },
+    {
+      "id": "s04e08-market-14",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Реклама",
+      "title": "Что врежется в драму сразу после тревожной сцены Фатимы?",
+      "opensAt": 291,
+      "closesAt": 303,
+      "resolveAt": 305,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Реклама 1XBET",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Видение Бойда",
+          "odds": 2
+        },
+        {
+          "id": "option-3",
+          "title": "Крик Кенни",
+          "odds": 2.5
+        },
+        {
+          "id": "option-4",
+          "title": "Признание Джейда",
+          "odds": 3
+        }
+      ],
+      "resolutionNote": "Фатима, возможно, превращается в тварь, но сначала — супербонус 400 долларов."
+    },
+    {
+      "id": "s04e08-market-15",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Зачем Итан рисует людей?",
+      "opensAt": 420,
+      "closesAt": 450,
+      "resolveAt": 455,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Чтобы никого не забыть, если останется один",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Чтобы найти путь к башне",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Чтобы повторить рисунки Миранды",
+          "odds": 2
+        },
+        {
+          "id": "option-4",
+          "title": "Чтобы доказать, что Виктор псих",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "ребёнок готовится к одиночеству, а взрослые такие: «ну, он просто рисует»."
+    },
+    {
+      "id": "s04e08-market-16",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Что Джейд принесёт вместо обычной карты?",
+      "opensAt": 496,
+      "closesAt": 522,
+      "resolveAt": 525,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Макет туннелей",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Карту на стене",
+          "odds": 2
+        },
+        {
+          "id": "option-3",
+          "title": "Коробку с костями",
+          "odds": 4
+        },
+        {
+          "id": "option-4",
+          "title": "Презентацию «как не сдохнуть»",
+          "odds": 3
+        }
+      ],
+      "resolutionNote": "не школьная выставка, конечно. Просто взрослый мужик построил ад из подручного мусора."
+    },
+    {
+      "id": "s04e08-market-17",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Почему Бойд сразу зарежет план Джейда?",
+      "opensAt": 557,
+      "closesAt": 577,
+      "resolveAt": 580,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Один вход, один выход — все станут мишенью",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Джейд ошибся с пещерой",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Нет талисманов",
+          "odds": 2.5
+        },
+        {
+          "id": "option-4",
+          "title": "Кенни запретит",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "армейский опыт Бойда сводится к простому: не залезай в мясорубку без двери назад."
+    },
+    {
+      "id": "s04e08-market-18",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Что Джейд саркастически предложит построить?",
+      "opensAt": 600,
+      "closesAt": 610,
+      "resolveAt": 615,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Воздушный шар",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Подземный лифт",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Второй город",
+          "odds": 4
+        },
+        {
+          "id": "option-4",
+          "title": "Катапульту для Бойда",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "шутка смешная ровно до момента, когда понимаешь, что его настоящий план будет не сильно нормальнее."
+    },
+    {
+      "id": "s04e08-market-19",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Чем Генри попробует заняться, чтобы не окончательно поехать?",
+      "opensAt": 676,
+      "closesAt": 730,
+      "resolveAt": 735,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Помочь с обедом",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Искать жёлтый костюм",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Пойти к могиле Миранды",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Закрыться в комнате и пить",
+          "odds": 3
+        }
+      ],
+      "resolutionNote": "у деда терапия через кухню. В этом городе это почти здоровый выбор."
+    },
+    {
+      "id": "s04e08-market-20",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Чья любимая песня застряла на кассете?",
+      "opensAt": 742,
+      "closesAt": 750,
+      "resolveAt": 755,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Миранды",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Эбби",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Джима",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Человека в жёлтом, у него плейлист мерзкий",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "даже кассета здесь не просто кассета, а эмоциональная мина."
+    },
+    {
+      "id": "s04e08-market-21",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Чему Итан попросит Виктора его научить?",
+      "opensAt": 847,
+      "closesAt": 875,
+      "resolveAt": 880,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Выживать, если он останется один",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Разговаривать с мальчиком в белом",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Искать входы в туннели",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Делать вид, что всё нормально",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "детский мастер-класс «как не развалиться после конца света»."
+    },
+    {
+      "id": "s04e08-market-22",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Чего Фатима испугается сильнее всего?",
+      "opensAt": 965,
+      "closesAt": 987,
+      "resolveAt": 990,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Что превращается в одну из тварей",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Что снова беременна",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Что Кристи запрёт её в клинике",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Что её поведут в туннели первой",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "когда у монстров человеческие органы, а у тебя тело ведёт себя странно — математика неприятная."
+    },
+    {
+      "id": "s04e08-market-23",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Как Акоста отреагирует на связь Фатимы с тварью?",
+      "opensAt": 989,
+      "closesAt": 1017,
+      "resolveAt": 1020,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Увидит в этом возможное преимущество",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Скажет изолировать Фатиму",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Потребует никому не рассказывать",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Предложит сжечь клинику",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "человек в ужасе, тело ломается, а Акоста уже открыла вкладку «как применить это против врага»."
+    },
+    {
+      "id": "s04e08-market-24",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Что Кенни должен будет сказать Бойду про план с туннелями?",
+      "opensAt": 1037,
+      "closesAt": 1100,
+      "resolveAt": 1105,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Что не все, кто войдёт, смогут выйти",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Что Джейд всё просчитал",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Что идти надо немедленно",
+          "odds": 2.5
+        },
+        {
+          "id": "option-4",
+          "title": "Что Фатима должна вести группу",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "«Скажи шерифу, что люди умрут» — прекрасная утренняя просьба после того, как тебя почти съели."
+    },
+    {
+      "id": "s04e08-market-25",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "В чём Бойд признается Кристи?",
+      "opensAt": 1159,
+      "closesAt": 1224,
+      "resolveAt": 1230,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Видения и звуки стали появляться чаще",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Он больше не верит в кости",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Он хочет уйти с поста шерифа",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Он видел человека в жёлтом",
+          "odds": 2.5
+        }
+      ],
+      "resolutionNote": "Бойд наконец говорит вслух: «я, возможно, разваливаюсь», и всем сразу легче не стало."
+    },
+    {
+      "id": "s04e08-market-26",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "С чем связаны видения Бойда?",
+      "opensAt": 1214,
+      "closesAt": 1244,
+      "resolveAt": 1250,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "С Эбби и выстрелом",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "С Джимом и радио",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "С Кенни и его отцом",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "С мальчиком в белом",
+          "odds": 2.5
+        }
+      ],
+      "resolutionNote": "место достало самый больной файл из головы Бойда и включило на повтор."
+    },
+    {
+      "id": "s04e08-market-27",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Чего Бойд попросит у Кристи?",
+      "opensAt": 1260,
+      "closesAt": 1285,
+      "resolveAt": 1290,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Что-нибудь, чтобы продержаться ещё немного",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Снотворное на неделю",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Полный запрет на туннели",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Справку, что он нормальный",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "человек не просит исцеления, он просит батарейку до следующего пиздеца."
+    },
+    {
+      "id": "s04e08-market-28",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Что окажется в рюкзаке у девушки после ночи в Доме-колонии?",
+      "opensAt": 1399,
+      "closesAt": 1443,
+      "resolveAt": 1450,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Одежда",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Еда",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Талисман",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Нож",
+          "odds": 3
+        }
+      ],
+      "resolutionNote": "интрига была как будто там труп, а там просто вещи мёртвых. Тоже, конечно, не праздник."
+    },
+    {
+      "id": "s04e08-market-29",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Что мальчик в белом первым дал маленькому Виктору для выживания?",
+      "opensAt": 1522,
+      "closesAt": 1553,
+      "resolveAt": 1560,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Еду",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Оружие",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Карту",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Нормального взрослого рядом",
+          "odds": 8
+        }
+      ],
+      "resolutionNote": "нормального взрослого не завезли, зато был грузовик с персиками."
+    },
+    {
+      "id": "s04e08-market-30",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Чем Виктор в основном питался после резни?",
+      "opensAt": 1547,
+      "closesAt": 1564,
+      "resolveAt": 1570,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Консервированными персиками",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Молоком и мясом",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Рыбой из озера",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Священной верой в сценаристов",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "персики, растения и жуки. Детство мечты, если мечта — травма."
+    },
+    {
+      "id": "s04e08-market-31",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Какая вторая вещь нужна для выживания, по словам Виктора?",
+      "opensAt": 1583,
+      "closesAt": 1600,
+      "resolveAt": 1605,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Притворяться, что ты не один",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Всегда держать нож",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Никогда не говорить с деревьями",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Спать только днём",
+          "odds": 3
+        }
+      ],
+      "resolutionNote": "совет жуткий, но рабочий. Психика Виктора собрана из коробок, стен и персиков."
+    },
+    {
+      "id": "s04e08-market-32",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Что Виктор предложит Итану вместо одиночества?",
+      "opensAt": 1630,
+      "closesAt": 1684,
+      "resolveAt": 1690,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Переодеть манекены / куклы в его семью",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Нарисовать новую карту",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Спрятаться в грузовике",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Сделать алтарь из персиков",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "максимально криповая забота. Виктор правда помогает — просто его инструменты из ада."
+    },
+    {
+      "id": "s04e08-market-33",
+      "betFormat": "choice",
+      "marketType": "long30",
+      "category": "Сюжетная ставка",
+      "title": "Какую «реальность» покажут Генри?",
+      "opensAt": 1777,
+      "closesAt": 1877,
+      "resolveAt": 1880,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Он в медцентре после плохой кислоты",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Он дома с Мирандой до города",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Он уже умер и говорит с Эбби",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Он просто пьяный на кухне",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "место предлагает Генри версию, где весь кошмар — последствия кислоты. Очень заботливо, очень мерзко."
+    },
+    {
+      "id": "s04e08-market-34",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Кто такой Себастьян в видении Генри?",
+      "opensAt": 1849,
+      "closesAt": 1865,
+      "resolveAt": 1870,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Его внук",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Врач",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Сын Виктора из другого цикла",
+          "odds": 4
+        },
+        {
+          "id": "option-4",
+          "title": "Мальчик в белом под прикрытием",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "альтернативная жизнь такая сладкая, что сразу понятно — сейчас ударят."
+    },
+    {
+      "id": "s04e08-market-35",
+      "betFormat": "choice",
+      "marketType": "long30",
+      "category": "Сюжетная ставка",
+      "title": "Почему Фатима захочет понять свою связь с тварью?",
+      "opensAt": 1944,
+      "closesAt": 2073,
+      "resolveAt": 2080,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Чтобы вернуть себе контроль и дать отпор",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Чтобы доказать, что она здорова",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Чтобы стать охотницей",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Чтобы уйти жить в лес",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "страшно не только то, что с ней происходит. Страшно, что это может быть единственный рычаг."
+    },
+    {
+      "id": "s04e08-market-36",
+      "betFormat": "choice",
+      "marketType": "long30",
+      "category": "Сюжетная ставка",
+      "title": "Что Кристи скажет Акосте по поводу Фатимы?",
+      "opensAt": 2094,
+      "closesAt": 2174,
+      "resolveAt": 2180,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Все разговоры с Фатимой — через неё",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Акоста права, надо тестировать связь",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Фатиму надо запереть",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Бойд решит сам",
+          "odds": 3
+        }
+      ],
+      "resolutionNote": "Кристи наконец включает режим «моя пациентка, отойдите нахрен»."
+    },
+    {
+      "id": "s04e08-market-37",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Что пропадёт из тайника?",
+      "opensAt": 2236,
+      "closesAt": 2246,
+      "resolveAt": 2250,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Жёлтый костюм",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Карта туннелей",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Талисман",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Персики Виктора",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "жёлтый костюм пропал. Значит, кто-то решил снова одеться как главный кошмар сезона."
+    },
+    {
+      "id": "s04e08-market-38",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Что Джейд внезапно поймёт?",
+      "opensAt": 2276,
+      "closesAt": 2286,
+      "resolveAt": 2290,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Как использовать бутылочное дерево",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Где лежит жёлтый костюм",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Что туннели не нужны",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Что Бойд всё равно его не слушает",
+          "odds": 2
+        }
+      ],
+      "resolutionNote": "пока все паникуют из-за костюма, Джейд приходит с новым планом имени «дерево, корни, поехали»."
+    },
+    {
+      "id": "s04e08-market-39",
+      "betFormat": "choice",
+      "marketType": "long30",
+      "category": "Сюжетная ставка",
+      "title": "Что Табита пообещает Виктору и Итану?",
+      "opensAt": 2346,
+      "closesAt": 2475,
+      "resolveAt": 2480,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Что заберёт их домой",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Что больше не будет говорить о Миранде",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Что спустится одна",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Что Виктор станет отцом семейства, господи прости",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "обещание сильное. Проблема в том, что в этом городе такие обещания обычно звучат перед катастрофой."
+    },
+    {
+      "id": "s04e08-market-40",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Что Джейд предложит сделать с бутылочным деревом?",
+      "opensAt": 2507,
+      "closesAt": 2550,
+      "resolveAt": 2555,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Вырвать его с корнем",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Срубить и сжечь",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Повесить на него талисманы",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Залезть внутрь и молиться",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "план выглядит как пьяный ремонт дачи, но в логике серии это почти стратегия."
+    },
+    {
+      "id": "s04e08-market-41",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Как Джейд представляет операцию с деревом?",
+      "opensAt": 2550,
+      "closesAt": 2585,
+      "resolveAt": 2590,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Группа копает снизу, группа наверху вытаскивает дерево",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Все одновременно бегут в туннель",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Бойд один идёт вниз",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Фатима управляет тварями, пока Джейд орёт",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "звучит как ограбление банка, только банк — пещера с костями детей."
+    },
+    {
+      "id": "s04e08-market-42",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Как Бойд размажет план Джейда одной фразой?",
+      "opensAt": 2591,
+      "closesAt": 2646,
+      "resolveAt": 2650,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Назовёт это ландшафтным дизайном",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Скажет, что Джейд пьян",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Скажет, что дерево проклято",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Просто уйдёт молча",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "«Ландшафтный дизайн — это не план». Бойд, возможно, впервые за серию сказал что-то идеально точное."
+    },
+    {
+      "id": "s04e08-market-43",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Что прервёт спор о дереве?",
+      "opensAt": 2659,
+      "closesAt": 2689,
+      "resolveAt": 2695,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Найдут Кенни в плохом состоянии",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Придёт человек в жёлтом",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Фатима потеряет сознание",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Дерево само начнёт двигаться",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "только начали нормально ругаться — город принёс Кенни как аргумент."
+    },
+    {
+      "id": "s04e08-market-44",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Что Генри будет считать более правдоподобным, чем весь этот город?",
+      "opensAt": 2773,
+      "closesAt": 2822,
+      "resolveAt": 2830,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Что ему выжгло мозги кислотой",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Что он умер в аварии",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Что Виктор всё придумал",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Что Бойд его держит в симуляции",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "и честно — на фоне Фромвилля плохая кислота звучит почти как документалка."
+    },
+    {
+      "id": "s04e08-market-45",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Что Генри должен сделать, чтобы остаться в видении?",
+      "opensAt": 2909,
+      "closesAt": 2954,
+      "resolveAt": 2960,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Устранить якорь",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Дослушать песню",
+          "odds": 2.5
+        },
+        {
+          "id": "option-3",
+          "title": "Позвать Элайзу",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Признать, что Виктор не настоящий",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "классика этого места: дать важную инструкцию и не объяснить, что за хрень она значит."
+    },
+    {
+      "id": "s04e08-market-46",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Что будет самым невозможным в состоянии Фатимы?",
+      "opensAt": 3051,
+      "closesAt": 3081,
+      "resolveAt": 3085,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Давление 50/33 и пульс 19",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Температура ниже нуля",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Полное отсутствие дыхания",
+          "odds": 3
+        },
+        {
+          "id": "option-4",
+          "title": "Нормальные анализы, потому что медицина сдалась",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "с медицинской точки зрения она не должна быть жива. С точки зрения сериала — ещё можно на миссию."
+    },
+    {
+      "id": "s04e08-market-47",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Кто позвонит Табите?",
+      "opensAt": 3124,
+      "closesAt": 3172,
+      "resolveAt": 3180,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Томас",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Джим",
+          "odds": 2
+        },
+        {
+          "id": "option-3",
+          "title": "Джули",
+          "odds": 2.5
+        },
+        {
+          "id": "option-4",
+          "title": "Человек в жёлтом лично на проводе, тариф «ад безлимит»",
+          "odds": 3
+        }
+      ],
+      "resolutionNote": "мёртвый ребёнок звонит матери и угрожает её детям. Семейная драма, просто с максимальным уроном."
+    },
+    {
+      "id": "s04e08-market-48",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Что голос заставит Бойда принять?",
+      "opensAt": 3204,
+      "closesAt": 3272,
+      "resolveAt": 3280,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Что он убил Эбби, потому что выбора не было",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Что Кенни надо оставить в городе",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Что план Джейда провалится",
+          "odds": 2.5
+        },
+        {
+          "id": "option-4",
+          "title": "Что шерифом должен стать Элджин",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "мотивационная речь от галлюцинации: смирись с убийством жены и иди спасать остальных. Спасибо, очень мягко."
+    },
+    {
+      "id": "s04e08-market-49",
+      "betFormat": "choice",
+      "marketType": "quick30",
+      "category": "Быстрая ставка",
+      "title": "Что человек в жёлтом скажет про Джима?",
+      "opensAt": 3335,
+      "closesAt": 3354,
+      "resolveAt": 3360,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Что Джим был храбрым, и он сохранил один его зуб",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Что Джим жив",
+          "odds": 4
+        },
+        {
+          "id": "option-3",
+          "title": "Что Джим всё испортил",
+          "odds": 2.5
+        },
+        {
+          "id": "option-4",
+          "title": "Что Джим сам попросил его убить",
+          "odds": 5
+        }
+      ],
+      "resolutionNote": "хранить зуб убитого мужа — это уже не злодейство, это сувенирка из ада."
+    },
+    {
+      "id": "s04e08-market-50",
+      "betFormat": "choice",
+      "marketType": "minute",
+      "category": "Сюжетная ставка",
+      "title": "Чем человек в жёлтом пугает Табиту насчёт костей?",
+      "opensAt": 3383,
+      "closesAt": 3425,
+      "resolveAt": 3430,
+      "winningOptionId": "option-1",
+      "options": [
+        {
+          "id": "option-1",
+          "title": "Они могут освободить детей или выпустить невообразимые страдания",
+          "odds": 1.5
+        },
+        {
+          "id": "option-2",
+          "title": "Кости уже исчезли",
+          "odds": 3
+        },
+        {
+          "id": "option-3",
+          "title": "Джейд всё неправильно понял",
+          "odds": 2.5
+        },
+        {
+          "id": "option-4",
+          "title": "Детей вообще не было",
+          "odds": 4
+        }
+      ],
+      "resolutionNote": "ставка серии в одной фразе: либо домой, либо откроете DLC «ещё хуже»."
+    }
+  ]
+}
